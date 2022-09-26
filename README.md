@@ -1,5 +1,4 @@
 # Dataset for pronunciation evaluation in singing
-#### Dataset Link: https://drive.google.com/open?id=19JPEWSBAM0ssatjBIJzAzjClxi2abt8w
 
 This dataset has been used for the paper:
 
